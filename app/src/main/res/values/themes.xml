@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.Class20240205" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+    <style name="Base.Theme.Class20240205" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        주색상 : 액션바, 버튼의 배경색 -->
+         <item name="colorPrimary">#0000FF</item>
+        <item name="colorPrimaryVariant">@color/material_dynamic_neutral0</item>
+
+<!--        부색상 : 활성 상태를 표현 -->
+        <item name="colorSecondary">#ED1111</item>
+        <item name="colorSecondaryVariant">@color/material_dynamic_neutral_variant80</item>
+
+<!--        상태바 색상 -->
+        <item name="android:statusBarColor" tools:targetApi="l">#CC0000</item>
+
+<!--        <item>의 속성으로 숨기기 -->
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="windowNoTitle">true</item>-->
+    </style>
+
+    <style name="Theme.Class20240205" parent="Base.Theme.Class20240205" />
+</resources>
