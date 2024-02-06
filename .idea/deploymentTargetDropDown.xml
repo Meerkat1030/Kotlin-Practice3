@@ -5,10 +5,19 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="ch11_jetpack">
+        <State />
+      </entry>
+      <entry key="drawerlayoutex">
+        <State />
+      </entry>
       <entry key="fragmentex">
         <State />
       </entry>
       <entry key="recyclerviewex">
+        <State />
+      </entry>
+      <entry key="viewpagerex">
         <State />
       </entry>
     </value>

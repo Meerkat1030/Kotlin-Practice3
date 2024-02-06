@@ -17,3 +17,6 @@ rootProject.name = "class20240205"
 include(":app")
 include(":fragmentex")
 include(":recyclerviewex")
+include(":viewpagerex")
+include(":drawerlayoutex")
+include(":ch11_jetpack")
